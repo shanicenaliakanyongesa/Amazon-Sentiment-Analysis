@@ -1,0 +1,10 @@
+- [x] Load the data (already done).
+- [x] Install/import TextBlob for sentiment analysis.
+- [x] Clean data: remove rows with missing reviewText.
+- [x] Compute sentiment polarity for each reviewText using TextBlob.
+- [x] Add columns: polarity score, and sentiment classification (positive, negative, neutral).
+- [x] Analyze: compare sentiment with overall ratings (e.g., group by sentiment and average rating).
+- [x] Visualize: create a bar chart of sentiment distribution.
+- [ ] Test the data: Run the sentimentanalysis.ipynb notebook to verify execution and outputs.
+- [ ] Generate a README: Create README.md with project details.
+- [ ] Add more visualizations: Enhance notebook with histogram, box plot, pie chart.
