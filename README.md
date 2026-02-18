@@ -1,5 +1,5 @@
 
-<<<<<<< HEAD
+
 ![Sentiment Analysis](sentiment_distribution.png)
 
 ## 📊 Project Overview
@@ -160,9 +160,3 @@ TextBlob is a Python library that provides a simple API for diving into common n
 
 
 
-=======
-
-
-
-
->>>>>>> 51dfbd044ef738461ca3508029773f9d366e6274
